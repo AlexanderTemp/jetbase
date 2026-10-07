@@ -1,0 +1,4 @@
+<resources>
+    <!-- "debug" source set: overrides app_name in debug builds only. -->
+    <string name="app_name" translatable="false">JetBase Debug</string>
+</resources>

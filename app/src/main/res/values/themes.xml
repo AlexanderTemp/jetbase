@@ -1,0 +1,17 @@
+<resources>
+    <!-- Minimal XML theme: the real colors come from Compose (JetBaseTheme). This only affects
+         the window before Compose draws. -->
+    <style name="Theme.JetBase" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+    <style name="Theme.JetBase.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/window_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.JetBase.AppCompat</item>
+    </style>
+
+    <style name="Theme.JetBase.AppCompat" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>

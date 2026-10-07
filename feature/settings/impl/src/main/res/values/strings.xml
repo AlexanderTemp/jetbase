@@ -1,0 +1,23 @@
+<resources>
+    <string name="feature_settings_title">Settings</string>
+    <string name="feature_settings_appearance">Appearance</string>
+    <string name="feature_settings_appearance_desc">Theme, colors and dark mode</string>
+    <string name="feature_settings_language">Language</string>
+    <string name="feature_settings_language_desc">App language</string>
+    <string name="feature_settings_about">About</string>
+    <string name="feature_settings_about_desc">Version and app information</string>
+    <string name="feature_settings_seed_color">Theme color</string>
+    <string name="feature_settings_palette_style">Palette style</string>
+    <string name="feature_settings_general">General</string>
+    <string name="feature_settings_dynamic_color">Dynamic color</string>
+    <string name="feature_settings_dynamic_color_desc">Use colors from your wallpaper</string>
+    <string name="feature_settings_dark_theme">Dark theme</string>
+    <string name="feature_settings_follow_system">Follow system</string>
+    <string name="feature_settings_light">Off</string>
+    <string name="feature_settings_dark">On</string>
+    <string name="feature_settings_additional">Additional settings</string>
+    <string name="feature_settings_high_contrast">High contrast</string>
+    <string name="feature_settings_high_contrast_desc">Pure black background in dark theme</string>
+    <string name="feature_settings_version">Version</string>
+    <string name="feature_settings_package">Package</string>
+</resources>

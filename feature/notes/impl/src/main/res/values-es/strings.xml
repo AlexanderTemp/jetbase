@@ -1,0 +1,16 @@
+<resources>
+    <string name="feature_notes_title">Notas</string>
+    <string name="feature_notes_new">Nueva nota</string>
+    <string name="feature_notes_edit">Editar nota</string>
+    <string name="feature_notes_untitled">Sin título</string>
+    <string name="feature_notes_empty_title">Aún no hay notas</string>
+    <string name="feature_notes_empty_description">Toca “Nueva nota” para crear la primera.</string>
+    <string name="feature_notes_error_title">Algo salió mal</string>
+    <string name="feature_notes_pin">Fijar</string>
+    <string name="feature_notes_unpin">Desfijar</string>
+    <string name="feature_notes_delete">Eliminar</string>
+    <string name="feature_notes_save">Guardar</string>
+    <string name="feature_notes_field_title">Título</string>
+    <string name="feature_notes_field_content">Contenido</string>
+    <string name="feature_notes_select_note">Selecciona una nota para editarla</string>
+</resources>

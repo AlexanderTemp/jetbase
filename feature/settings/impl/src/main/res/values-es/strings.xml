@@ -1,0 +1,23 @@
+<resources>
+    <string name="feature_settings_title">Ajustes</string>
+    <string name="feature_settings_appearance">Apariencia</string>
+    <string name="feature_settings_appearance_desc">Tema, colores y modo oscuro</string>
+    <string name="feature_settings_language">Idioma</string>
+    <string name="feature_settings_language_desc">Idioma de la app</string>
+    <string name="feature_settings_about">Acerca de</string>
+    <string name="feature_settings_about_desc">Versión e información de la app</string>
+    <string name="feature_settings_seed_color">Color del tema</string>
+    <string name="feature_settings_palette_style">Estilo de paleta</string>
+    <string name="feature_settings_general">General</string>
+    <string name="feature_settings_dynamic_color">Color dinámico</string>
+    <string name="feature_settings_dynamic_color_desc">Usar los colores del fondo de pantalla</string>
+    <string name="feature_settings_dark_theme">Tema oscuro</string>
+    <string name="feature_settings_follow_system">Seguir al sistema</string>
+    <string name="feature_settings_light">Desactivado</string>
+    <string name="feature_settings_dark">Activado</string>
+    <string name="feature_settings_additional">Ajustes adicionales</string>
+    <string name="feature_settings_high_contrast">Alto contraste</string>
+    <string name="feature_settings_high_contrast_desc">Fondo negro puro en modo oscuro</string>
+    <string name="feature_settings_version">Versión</string>
+    <string name="feature_settings_package">Paquete</string>
+</resources>
